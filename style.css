@@ -1,0 +1,275 @@
+*{
+    color:black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;;
+    padding:0;
+    
+}
+a{
+
+    text-decoration:none;
+    color:rgb(56, 56, 56);
+}
+.navbar a{
+    color:black;
+}
+.navbar a:hover{
+    color:rgb(249, 205, 7);
+}
+.navbar{
+    height:52px;
+    width:100%;
+    display:flex;
+    top:0;
+    position:fixed;
+    background-color:white;
+}
+.menu{
+
+    display:flex;
+    justify-content:space-evenly;
+    align-items:center; 
+    width:60%;
+    position:fixed;
+    right:5px;
+    font-size:1.3rem; 
+    padding:8px;
+    top:5px;
+}
+h2{
+    color:black;
+    font-size:2.5rem;
+
+}
+h2:hover{
+
+    color:rgb(249, 205, 7);
+    transition-property: color;
+    transition-duration: 0.2s;
+}
+
+/* herosection */
+
+.herosection{
+
+    text-align:center;
+    height:700px;
+}
+.subheading{
+    padding-top:100px;
+    font-size:1.5rem;
+}
+.heading{
+    font-size:2rem;
+}
+
+/* typing effect animation */
+.animate{
+    display:inline-block;
+}
+.animation{
+    
+    border-right:2px solid;
+    white-space:nowrap;
+    animation:slide 3s infinite,
+    typing .4s step-end infinite alternate;
+}
+@keyframes typing{
+    50%{
+        border-color:transparent;
+    }
+} 
+
+ @keyframes slide{
+    from{
+        width:0;
+    } 
+}
+.occo{
+    font-weight:bolder;
+    font-size:4rem;
+    width:100%;
+    overflow:hidden;
+    color:rgb(249, 205, 7);
+} 
+
+/* About section */
+
+.aboutpanel{
+    display:flex;
+    height:700px;
+}
+.photo{
+    background-image:url("3081bec1-1407-46f4-9eef-97c18a927b90.jpg");
+    background-size:cover;
+    height:60%;
+    width:35%;
+    margin-left:10px;
+    border-radius:40px;
+}
+.photo:hover{
+    height:65%;
+    width:40%; 
+    transition-property:all;
+    transition-timing-function:ease-out;
+    transition-duration:1s;
+
+
+}
+.aboutsection{
+    background-color:rgb(235, 230, 230);
+    border:none;
+    border-radius:30px;
+    margin-left:100px;
+    height:455px;
+    padding:40px;
+    width:60%;
+}
+.aboutsection:hover{
+    height:70%;
+    width:70%;
+    transition:all ease-in-out 1s;
+}
+.heading{
+    text-align:center;
+    color:black;
+}
+.head li{
+    font-weight:600;
+    font-size:1.8rem;
+}
+.aboutme{
+    font-size:1.8rem;
+}
+.aboutme ul{
+    display:inline-block;
+    list-style: none;
+    
+}
+/*Education section*/
+
+.qualifications {
+    display:flex;
+    padding-bottom:20px;
+    font-size:1.2rem;
+    padding-left:10px;
+}
+.sections h1{
+    padding-right:50px;
+    position:sticky;
+    top:50px;
+    color:rgb(249, 205, 7);
+    font-size:2rem;
+    font-weight:500;
+}
+.Projects h3{
+    font-weight:100;
+}
+
+.skil{
+    width:100px;
+    height:150px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-right:20px;
+    border-radius:20px;
+    border:2px solid black;
+    
+}
+.skil:hover{
+
+    background-color:rgba(249, 205, 7,0.2);
+    border:2px solid rgb(249, 205, 7);
+}
+.options
+{
+    display:flex;
+} 
+.down{
+    margin-top:50px;
+    margin-bottom:50px;
+}
+
+.down a{
+    
+    background-color:rgb(249, 205, 7);
+    border:none;
+    border-radius:40px;
+    padding:15px;
+    font-weight:600;
+}
+.down a:hover{
+    background-color:rgb(210, 171, 1);
+
+}
+
+.container{
+    height:700px;
+    display:flex;
+}
+
+ .contacting form{
+    padding:40px;
+    border-radius:20px;
+    width:100%;
+    margin-left:40px;
+    text-align:right;
+}
+.contacting #name{
+    font-size:1.5rem;
+    padding:10px;
+    height:40px;
+    margin:10px;
+    background-color:rgba(249, 205, 7,0.2);
+    border:2px solid rgb(249, 205, 7);
+    border-radius:10px;
+}
+.contacting textarea{
+    padding-left:20px;
+    font-size:1.5rem;
+    margin-top:20px;
+    margin-left:10px;
+    background-color:rgba(249, 205, 7,0.2);
+    border:2px solid rgb(249, 205, 7);
+    border-radius:10px;
+}
+.contacting #button{
+    height:50px;
+    width:300px;
+    border-radius:40px;
+    font-size:1.2rem;
+    margin-left:50px;
+    margin-top:20px;
+    background-color:rgb(249, 205, 7);
+    border:none;
+    font-weight:600;
+}
+#button:hover{
+    background-color:rgb(210, 171, 1);
+
+}
+footer{
+    display:flex;
+    color:black;
+    background-color:rgb(249, 205, 7);
+    justify-content:space-evenly;
+    height:400px;
+    align-items:center;
+}
+.social{
+    font-size:2rem;
+    margin-right:200px;
+}
+.socials{
+    position:fixed;
+    top:200px;
+    font-size:1.5rem;
+    right:5px;
+    background-color:white;
+    padding:10px;
+    height:100px;
+    margin-bottom:40px;
+}
+.socials i{
+    color:rgb(249, 205, 7);
+}
