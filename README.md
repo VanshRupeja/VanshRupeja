@@ -1,19 +1,33 @@
-Passionate BCA student with a strong foundation in core Java and Python programming languages. Dedicated to pursuing a rewarding career in the IT industry, leveraging my technical skills and commitment to continuous learning. Seeking opportunities in a dynamic IT company to contribute to innovative projects and gain hands-on experience, while driving my professional growth.
+About Me
+👋 Hi, I'm Vansh Rupeja, a passionate MCA student from Chitkara University, with a strong foundation in Core Java, Python, and Web Development. I thrive on solving complex problems and building innovative solutions, with hands-on experience in diverse projects across software development and data analysis.
 
-👨‍💻 Core Java | 🐍 Python | 🌐 Web Development | 💡 Problem-solving
+💻 Core Skills:
 
-🎓 Currently pursuing my BCA degree, specializing in computer science, from Punjabi University Patiala.
+Programming: Core Java | 
+Web Development: HTML | CSS | JavaScript | MySQL | Node.js
+Special Projects: Service-based landing pages, Bank Management System and Amazon clone (front page).
+🎓 Education:
 
-💼 Actively seeking internships or entry-level positions in IT companies to apply my knowledge and skills in real-world scenarios.
+Completed BCA from Punjabi University, Patiala.
+Currently pursuing MCA at Chitkara University to deepen my expertise in computer science and IT.
+💡 What I've Built:
 
-🔬 Possess a solid understanding of object-oriented programming principles and algorithms, coupled with practical experience in developing applications using Java and Python.
+Portfolio Website: Fully responsive design with smooth navigation.
+Research Paper: AI in Financial Services: Opportunities and Risks.
+Clothing Brand: Co-founded Trust Vorthy, a Shopify-based brand in collaboration with Qikink.
+Shorts Video Channel: Created MiniMoments, showcasing impactful short-form content.
+🔍 What I'm Working On:
 
-✨ Eager to collaborate with diverse teams, contribute to innovative projects, and continually enhance my skills in software development, web technologies, and problem-solving.
+Advanced concepts in Java and OOP, including interview-level problem-solving (e.g., star patterns, string manipulations).
+AWS training to expand my cloud computing skills.
+Practical projects like Bank Management System and Amazon clone.
+🌟 My Passion:
+I’m deeply committed to exploring cutting-edge technologies, solving real-world problems, and collaborating with innovative teams. Lifelong learning is my mantra, and I continuously upskill through self-study and online certifications.
 
-📚 Committed to lifelong learning and staying updated with the latest industry trends and technologies. Actively engaged in self-study and online courses to broaden my skill set.
+📫 Contact Me:
 
-🌍 An enthusiastic team player with excellent communication skills and the ability to adapt to dynamic work environments. Proven record of delivering high-quality results within tight deadlines.
+Email: rupejavansh@gmail.com
+LinkedIn: https://www.linkedin.com/in/vansh-rupeja/
 
-Let's connect and explore opportunities in the exciting world of IT! Feel free to reach out via direct message or email: rupejavansh@gmail.com.
-
-#BCAStudent #JavaDeveloper #PythonProgrammer #ITJobs #WebDevelopment"
+🔗 Tags:
+#MCAStudent #JavaDeveloper #PythonProgrammer #WebDeveloper #ITJobs #ProblemSolver
