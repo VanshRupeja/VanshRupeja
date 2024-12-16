@@ -1,4 +1,3 @@
-About Me
 👋 Hi, I'm Vansh Rupeja, a passionate MCA student from Chitkara University, with a strong foundation in Core Java, Python, and Web Development. I thrive on solving complex problems and building innovative solutions, with hands-on experience in diverse projects across software development and data analysis.
 
 💻 Core Skills:
